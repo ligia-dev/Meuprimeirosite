@@ -1,0 +1,21 @@
+     header {
+         background-image: url(./Dinda.svg);
+         height: 100%;
+         padding-left: 83%;
+     }
+     
+     ul li {
+         list-style-type: none;
+         font-size: 25px;
+         color: white;
+         text-align: center;
+         padding-top: 110px;
+         text-transform: uppercase;
+     }
+     
+     .perfil img {
+         width: 400px;
+         border: tomato;
+         border-style: solid;
+         border-top-right-radius: 200px;
+     }

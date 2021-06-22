@@ -1,21 +1,53 @@
-     header {
-         background-image: url(./img/Dinda.svg);
-         height: 100%;
-         padding-left: 83%;
-     }
-     
-     ul li {
-         list-style-type: none;
-         font-size: 25px;
-         color: white;
-         text-align: center;
-         padding-top: 110px;
-         text-transform: uppercase;
-     }
-     
-     .perfil img {
-         width: 400px;
-         border: tomato;
-         border-style: solid;
-         border-top-right-radius: 200px;
-     }
+ header {
+     background-image: url(./img/Dinda.svg);
+     height: 100%;
+     padding-left: 83%;
+ }
+ 
+ ul li {
+     list-style-type: none;
+     font-size: 25px;
+     color: white;
+     text-align: center;
+     padding-top: 110px;
+     text-transform: uppercase;
+ }
+ 
+ .perfil img {
+     width: 300px;
+     border: black;
+     border-style: solid;
+     border-radius: 600px;
+     margin-top: 100px;
+     margin-left: 100px;
+     border-width: 5px;
+ }
+ 
+ .div1 {
+     display: inline-block;
+     width: 60%;
+     padding-right: 90px;
+     text-align: center;
+     padding-bottom: 40px;
+ }
+ 
+ p {
+     padding-left: 90px;
+ }
+ 
+ .itens {
+     padding-top: 60px;
+     background-color: black;
+     padding-bottom: 40px;
+     color: white;
+     text-decoration: underline;
+ }
+ 
+ h2 {
+     text-align: center;
+ }
+ 
+ .rodapé {
+     font-size: 16px;
+     text-align: center;
+ }
